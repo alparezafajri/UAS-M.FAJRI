@@ -1,0 +1,17 @@
+[
+{
+"merek": "Xiaomi",
+"seri": "REDMI",
+"harga": 14000000
+},
+{
+"merek": "iPhone",
+"seri": "15 PRO",
+"harga": 20000000
+},
+{
+"merek": "Nokia",
+"seri": "New",
+"harga": 19000000
+}
+]
